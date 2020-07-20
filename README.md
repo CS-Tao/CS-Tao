@@ -13,11 +13,3 @@ I'm a FE in ByteDance, love vue and docker.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=cs-tao&hide=["contribs"])
-
-<a href="https://github.com/CS-Tao/CS-Tao.github.io">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=cs-tao&repo=CS-Tao.github.io" />
-</a>
-
-<a href="https://github.com/CS-Tao/services">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=cs-tao&repo=services" />
-</a>
