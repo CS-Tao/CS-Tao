@@ -16,6 +16,9 @@ I'm a FE in ByteDance, love vue and docker.
 
 <!--START_SECTION:waka-->
 ```text
+JavaScript  13 mins             █████████████░░░░░░░░░░░░   51.80 % 
+HTML        12 mins             ███████████░░░░░░░░░░░░░░   46.59 % 
+CSS         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
 ```
 <!--END_SECTION:waka-->
 
