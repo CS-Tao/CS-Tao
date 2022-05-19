@@ -1,9 +1,5 @@
-### Hi there 👋
-
-I'm Tao. Thank you for visiting.
-
-### Languages and Tools
-
-<code><img height="20" src="https://home.cs-tao.cc/github-content/contents/github/profile/javascript.png"></code> <code><img height="20" src="https://home.cs-tao.cc/github-content/contents/github/profile/typescript.png"></code> <code><img height="20" src="https://home.cs-tao.cc/github-content/contents/github/profile/vue.png"></code> <code><img height="20" src="https://home.cs-tao.cc/github-content/contents/github/profile/react.png"></code> <code><img height="20" src="https://home.cs-tao.cc/github-content/contents/github/profile/nodejs.png"></code> <code><img height="20" src="https://home.cs-tao.cc/github-content/contents/github/profile/docker.png"></code> <code><img height="20" src="https://home.cs-tao.cc/github-content/contents/github/profile/graphql.png"></code>
+[![Hi there](https://readme-typing-svg.herokuapp.com?color=3080ec&vCenter=true&lines=Hi+there+%F0%9F%91%8B;I'm+Tao.+Thank+you+for+visiting.)](https://git.io/typing-svg)
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=cs-tao&hide=["contribs"])](https://github.com/CS-Tao/)
+
+![Visitor Count](https://profile-counter.glitch.me/CS-Tao/count.svg)
