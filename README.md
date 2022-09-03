@@ -12,7 +12,7 @@
   </a>
 </p>
 
-## 🖥 &nbsp;Past work
+## 🖥 &nbsp;Recently work
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cs-tao&repo=ts-fir&bg_color=0d1116&title_color=016bb6&text_color=a4aacb&icon_color=016bb6)](https://github.com/cs-tao/ts-fir) &nbsp; 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cs-tao&repo=ts-fir&bg_color=0d1116&title_color=016bb6&text_color=a4aacb&icon_color=016bb6)](https://github.com/cs-tao/ts-fir)
