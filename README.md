@@ -14,8 +14,8 @@
 
 ## 🖥 &nbsp;Recently work
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cs-tao&repo=ts-fir&bg_color=0d1116&title_color=016bb6&text_color=a4aacb&icon_color=016bb6)](https://github.com/cs-tao/ts-fir) &nbsp; 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nervjs&repo=taro&bg_color=0d1116&title_color=016bb6&text_color=a4aacb&icon_color=016bb6)](https://github.com/NverJs/taro)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cs-tao&repo=ts-fir&bg_color=0d1116&title_color=56a6ff&text_color=a4aacb&icon_color=a4aacb)](https://github.com/cs-tao/ts-fir) &nbsp; 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nervjs&repo=taro&bg_color=0d1116&title_color=56a6ff&text_color=a4aacb&icon_color=a4aacb)](https://github.com/NverJs/taro)
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="CS-Tao's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=CS-Tao&bg_color=0d1116&color=ffffff&line=00a851&point=016bb6" /></a>
+<a href="https://github.com/cs-tao"><img alt="CS-Tao's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=CS-Tao&bg_color=0d1116&color=ffffff&line=00a851&point=016bb6&radius=4&area=true" /></a>
 
