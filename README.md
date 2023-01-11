@@ -11,8 +11,3 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=3080ec&vCenter=true&lines=Hi+there+%F0%9F%91%8B;I'm+Tao.+Thank+you+for+visiting." alt="readme-typing-svg">
   </a>
 </p>
-
-## 🖥 &nbsp;Recently work
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cs-tao&repo=ts-fir&bg_color=0d1116&title_color=56a6ff&text_color=a4aacb&icon_color=a4aacb)](https://github.com/cs-tao/ts-fir) &nbsp; 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nervjs&repo=taro&bg_color=0d1116&title_color=56a6ff&text_color=a4aacb&icon_color=a4aacb)](https://github.com/NverJs/taro)
